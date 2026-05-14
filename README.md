@@ -829,10 +829,10 @@ color:#64748b;
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2026-05-14 194926-1.png>)
- ![alt text](<Screenshot 2026-05-14 194947-1.png>)
-  ![alt text](<Screenshot 2026-05-14 195007-1.png>) 
-  ![alt text](<Screenshot 2026-05-14 195024-1.png>)
+![alt text](<Screenshot 2026-05-14 194926.png>) 
+![alt text](<Screenshot 2026-05-14 194947.png>)
+ ![alt text](<Screenshot 2026-05-14 195007.png>) 
+ ![alt text](<Screenshot 2026-05-14 195024.png>)
 
 
 ## RESULT
